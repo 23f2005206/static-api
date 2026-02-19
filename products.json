@@ -21,32 +21,32 @@
     {"id": "prod-7fdd40c7-015", "name": "Elite Item 15", "category": "home", "price": 100.21, "stock": 155, "rating": 3.4},
     {"id": "prod-7fdd40c7-016", "name": "Premium Item 16", "category": "sports", "price": 96.11, "stock": 71, "rating": 5}
   ],
-   "aggregations": {
-  "electronics": {
-    "count": 3,
-    "inventoryValue": 54712.45
-  },
-  "clothing": {
-    "count": 5,
-    "inventoryValue": 77581.03
-  },
-  "books": {
-    "count": 3,
-    "inventoryValue": 160484.15
-  },
-  "home": {
-    "count": 3,
-    "inventoryValue": 58758.78999999999
-  },
-  "sports": {
-    "count": 2,
-    "inventoryValue": 10381.57
+     "aggregations": {
+    "electronics": {
+      "count": 3,
+      "inventoryValue": 54712.45
+    },
+    "clothing": {
+      "count": 5,
+      "inventoryValue": 77581.03
+    },
+    "books": {
+      "count": 3,
+      "inventoryValue": 160484.15
+    },
+    "home": {
+      "count": 3,
+      "inventoryValue": 58758.78999999999
+    },
+    "sports": {
+      "count": 2,
+      "inventoryValue": 10381.57
+    }
   }
 }
-}
 
 
-}
+
 
 
 
